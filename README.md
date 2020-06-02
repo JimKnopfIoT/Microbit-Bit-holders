@@ -11,6 +11,6 @@ Requirements:
 * Filament of your choice
 
 #### View
-![Example](Iso1.jpg)
-![Example](Iso2.jpg)
-![Example](Iso3.jpg)
+<img src="Iso1.jpg" width="500" align="center">
+<img src="Iso2.jpg" width="500" align="center">
+<img src="Iso3.jpg" width="500" align="center">
