@@ -14,9 +14,9 @@ Requirements:
 <img src="Iso1.jpg" width="500" align="center">
 <img src="Iso2.jpg" width="500" align="center">
 <img src="Iso3.jpg" width="500" align="center">
-<img src="IMG_20200603_095953.jpg" width="500" align="center">
-<img src="IMG_20200603_100038.jpg" width="500" align="center">
-<img src="IMG_20200603_100053.jpg" width="500" align="center">
-<img src="IMG_20200603_100206.jpg" width="500" align="center">
+<img src="IMG_20200603_3.jpg" width="500" align="center">
+<img src="IMG_20200603_2.jpg" width="500" align="center">
+<img src="IMG_20200603_1.jpg" width="500" align="center">
+
 
 
